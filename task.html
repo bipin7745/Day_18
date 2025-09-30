@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JavaScirpt Web API</title>
+  </head>
+  <body>
+    <h1>JavaScirpt Web API Validation</h1>
+    <p>Enter a Number and click ok</p>
+    <input type="number" id="id01" min="100" max="300" required />
+    <button onclick="fun()">OK</button>
+    <p>
+      If the number less than 100 or greater than 300, an error message will be
+      displayed.
+    </p>
+    <p id="output"></p>
+    <script>
+
+        function fun(){
+       const inputobj=document.getElementById("id01");
+       if(!inputobj.checkValidity())
+       {
+         document.getElementById("output").innerHTML=inputobj.validationMessage;
+       }
+       else
+       {
+        document.getElementById("output").innerHTML="Input OK";
+       }
+      }
+    </script>
+  </body>
+</html>

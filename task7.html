@@ -1,0 +1,17 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScirpt Session Storage</title>
+</head>
+<body>
+    <h1>JavaScirpt Storage API</h1>
+    <p id="output"></p>
+    <script>
+        sessionStorage.setItem("name","merry");
+        document.getElementById("output").innerHTML = sessionStorage.getItem("name");
+    </script>
+</body>
+</html>

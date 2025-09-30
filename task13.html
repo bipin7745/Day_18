@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title></title>
+    <style>
+      table,
+      th,
+      td {
+        border: 1px solid black;
+        border-collapse: collapse;
+      }
+      th,
+      td {
+        padding: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <button type="button" onclick="loadXMLDoc()">Get my CD collection</button>
+    <br /><br />
+    <table id="output"></table>
+
+    <script>
+      function loadXMLDoc() {
+        const xhttp = new XMLHttpRequest();
+        xhttp.onload = function () {
+         
+          myFunction(this);
+        };
+        xhttp.open("GET", "sample1.xml");
+        xhttp.send();
+      }
+
+      function myFunction(xml) {
+            const xmlDoc = xml.responseXML;
+          const section = xmlDoc.getElementsByTagName("section");
+        let table = "<tr><th>Artist</th><th>Title</th></tr>";
+        for (let i = 0; i < section.length; i++) {
+          table +=
+            "<tr><td>" +
+            section[i].getElementsByTagName("Artist")[0].childNodes[0].nodeValue +
+            "</td><td>" +
+            section[i].getElementsByTagName("Title")[0].childNodes[0].nodeValue +
+            "</td></tr>";
+        }
+        document.getElementById("output").innerHTML = table;
+      }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JavaScirpt Web API</title>
+  </head>
+  <body>
+    <h2>JavaScirpt Validation</h2>
+    <p>Enter a number and click Ok</p>
+    <input type="number" id="id01" max="100" />
+    <button onclick="fun()">Click Ok</button>
+
+    <p>
+      If the number is greater than 100 (the input's max attribute), an error
+      message will be displayed.
+    </p>
+
+    <p id="output"></p>
+    <script>
+      function fun() {
+        let text;
+        if (document.getElementById("id01").validity.rangeOverflow) {
+          text = "value too large!";
+        }
+        else{
+            text="Input OK"
+        }
+        document.getElementById("output").innerHTML=text;
+      }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,559 @@
+Day 1:-
+
+01/09/2025
+
+=> Registration from and javascript validation and button click all input data show this page
+=> Login from and javascript validation and button click all input data show this page
+_________________________________________________________________________________________________________________
+Day 2:-
+02/09/2025
+
+=> Home Page and Siderbar and Navbar Html and Css Page Desing 
+=> All Page Main page Contact show page 
+_________________________________________________________________________________________________________________
+Day 3:-
+03/09/2025
+
+=> Navbar ma Home page ,About page, Contact page and Service Page all click Main Page Show 
+=> Siderbar ma Home page ,About page, Contact page and Service Page all click Main Page Show 
+
+=> Bootstrap start 
+=> All Navbar and Siderbar All Same Page To Bootstrap Code All Css 
+_________________________________________________________________________________________________________________
+Day 4:-
+04/09/2025
+
+=> Website Responsive html and Bootstrap Used All Website page Media Query Used 
+=> Home Page About Page Contact Page and Gallery page all desing Bootstrap Class Used Desing
+
+_________________________________________________________________________________________________________________
+Day 5:-
+05/09/2025
+
+=> Learn JavaScript Introduction,Syantax,Statements,Comments,
+-> Variables Declared
+ Let, Const,Var,
+-> Operators:-
+    Logical Assignment
+     Assignment Operator 
+     Addition Operator 
+    Multiplication Operator
+    Comparison Operator 
+-> JavaScript Functions
+     Arrow Functions
+     Parameters vs. Arguments
+-> JavaScript Objects
+     Object Properties
+     Object Methods
+     Object Constructor Functions 
+
+-> Five And More Then Leran All Task Desing and Object  And Functions All Task 
+
+_____________________________________________________________________________________________________________
+Day 6:-
+08/09/2025
+
+=>JavaScript Events
+  onchange,onclick	,onmouseover ,onmouseout	
+
+=>JavaScript Strings 
+     Strings are for storing text
+     Strings are written with quotes
+
+=>JavaScript Template Strings
+     Template Strings
+     Templates were introduced with ES6 (JavaScript 2016).
+     Templates are strings enclosed in backticks (`This is a template string`).
+     Templates allow single and double quotes inside a string:
+
+=>JavaScript Numbers
+    Integer Precision,Floating Precision,Adding Numbers and Strings,Numeric Strings,NaN - Not a Number,
+    Infinity,Hexadecimal,avaScript Numbers as Objects
+
+=>JavaScripts
+Creating an, to a String,Access the Fulls are Objects Elements Can Be Objects,
+The length Property,Looping Elements,Adding Elements,Associatives,Nesteds and Objects
+
+=> Ten And More Then Leran All Task Desing and Object  And Events,String,Number Ands All Task 
+
+_____________________________________________________________________________________________________________
+Day 7:-
+09/09/2025
+
+=>JavaScript Dates
+     javaScript Date Format 
+     JavaScript Date Get Method
+     JavaScript Date new Date(year, month, ...)
+     Displaying Dates toString(),toDateString(),toUTCString(),toISOString()
+
+=>JavaScript Math Object
+     Math.round,Math.ceil(x),Math.floor(x),Math.trunc(x),Math.sign(),Math.sign(x),Math.pow(),
+     Math.sqrt(),Math.sqrt(x),Math.abs(),Math.abs(x) ,Math.min() ,Math.min() ,Math.random()
+
+=>JavaScript Booleans
+     true and false are boolean data types
+     true and false are the only possible boolean values
+     true and false must be written in lowercase
+     true and false must be written without quotes
+
+=>JavaScript Comparison
+     ==	equal to		
+     ===	equal value and equal type	
+     !==	not equal value or not equal type	
+     >	greater than		
+     <	less than	
+     >=	greater than or equal to		
+     <=	less than or equal to
+
+=>JavaScript Logical 
+     &&	AND		
+     ||	OR	
+     !	NOT
+      (Ternary) Operator (condition) ? value1:value2
+
+=>JavaScript if, else, and else if
+
+=>JavaScript Switch Statement
+
+=>JavaScript  Loop
+     for Loop
+     while Loop
+     do while loop
+
+=> JavaScript Break
+
+=> JavaScript Continue
+
+=>JavaScript Errors 
+     the try, The catch , The finally , The throw.
+
+=>JavaScript Scope
+     Global scope
+     Function scope
+     Block scope
+     
+=> Ten And More Then Leran All Task Desing and Dates And Math Object,Booleans,Comparison And if, else, 
+     Loop,Switch Statement All Task 
+
+
+_____________________________________________________________________________________________________________
+Day 8:-
+
+10/09/2025
+
+=>JavaScript String Method
+
+     1.length()
+     2.charat()
+     3.charCodeAt()
+     4.codePointAt()
+     5.at()
+     6.Access [ ]
+     7.concat()
+     8.fromCharCode()
+     9.substring()
+     10.substr()
+     11.slice()
+     12.toUpperCase()
+     13 toLowerCase()
+     14.isWellFormed()
+     15.toWellFormed()
+     16.trim()
+     17.trimStart() 
+     18.trimEnd()
+     19.padStart() 
+     20.padEnd()
+     21.repeat()
+     22.replaceAll()
+     23.split()
+     24.indexOf()
+     25.lastIndexOf()
+     26.search()
+     27.match()
+     28.matchAll()
+     29.includes()
+     30.startsWith()
+     31.endsWith()
+     32.valuOf()
+     33.prototype()
+
+
+_____________________________________________________________________________________________________________
+Day 9:-
+11/09/2025
+
+=>JavaScript  Numbers Method
+     1.toString()
+     2.toExponential()
+     3.toFixed() 
+     4.toPrecision()
+     5.valueOf()
+     6.parseInt()
+     7.parseFloat()
+     8.Number.isFinite()
+     9.Number.isInteger()
+     10.Number.isNan()
+     11.Number.isSafeInteger()
+     12.Number.parseInt()
+     13.Number.parseFloat()
+     14.EPSILON
+     15.MAX_VALUE
+     16.MIN_VALUE
+     17.MAX_SAFE_INTEGER
+     18.MIN_SAFE_INTEGER
+     19.POSITIVE_INFINITY
+     20.NEGATIVE_INFINITY
+     21.Number.NaN
+     22.toLocaleString()
+     23.Math.random()
+     24.BigInt
+     25.Math.floor(Math.random())
+     26.find() 
+     27.findIndex() 
+     28.findLast() 
+     29.findLastIndex()
+
+=>JavaScript  Method
+     30.at()
+     31.join()
+     32.copyWithin()
+     33.flat()
+     34.slice()
+     35.splice()
+     36.sort()
+     37.reverse() 
+     38.toReversed()
+
+
+_____________________________________________________________________________________________________________
+Day 10:-
+12/09/2025
+
+=>JavaScript  Array  Iterations Method
+     1 forEach
+     2. map()
+     3.flatMap()
+     4.filter()
+     5.reduce()
+     6.reduceRight()
+     7.every()
+     8.some()
+     9.from()
+     10.keys()
+     11.entries()
+     12.with()
+     13.Spread (...)
+     14.Rest (...)
+=>JavaScript Array Reference
+
+=>JavaScript Array Const
+
+=>JavaScript Function Definitions
+
+
+_____________________________________________________________________________________________________________
+Day 11:-
+15/09/2025
+
+   JS Function
+   
+          => Function Definitions
+          => Arrow Function
+          => Function Parameters
+          => Function Invocation
+          => this in Functions
+          => Function call
+          => Function apply
+          => Function bind
+          => FunctionClosures
+
+  JS Object
+     
+          => Object Definitions
+               Object.assign()
+               Object.create()
+               Object.fromEntries()
+
+          => Object Properties
+               delete()
+
+          => Object Method
+              toUpperCase() 
+              
+          => Object Display
+               Object.values()
+               Object.entries()
+               JSON.stringify()
+               
+          => Object Constructors
+
+
+_____________________________________________________________________________________________________________
+Day 12:-
+16/09/2025
+
+     => JavaScript From into Crud Operator from button submit and 
+     all javascript validation into from input filed all data Show this table Format
+
+     =>Employee All Website Responsive navbar and all Content and all page footer
+     =>Employee Dashboard into signup page and Login page into all Responsive Website
+     
+
+_____________________________________________________________________________________________________________
+Day 13:-
+17/09/2025
+
+     =>  JavaScript Objects 
+
+          =>Object this
+          =>Object Destructuring
+          =>Object Prototypes
+          =>Object Iterations 
+          =>Object Management
+          =>Object Get/Set
+          =>Object Protection
+ 
+_____________________________________________________________________________________________________________
+Day 14:-
+18/09/2025
+
+     =>JavaScript Class
+
+         =>create a class
+         =>class Method and Constructor Method
+         =>class use strict mode
+
+     =>JavaScript Class Inheritance
+        
+         =>create a class inheritance, use the extends keyword.
+         =>The super() method refers to the parent class.
+         =>Classes also allow you to use getters and setters.
+         =>JavaScript Static Methods Static class methods are defined on the class itself.
+
+     =>JavaScript Sets
+     
+         1.js Set Create
+         2.listing the new set with for and for..of loop new add()
+         3.has() Method
+         4.forEach() Method
+         5.value() Method
+         6.keys() Method
+         7.Entery() Method
+         8.clear() Method     
+         9.delete() Method
+
+     =>JavaScript Logic Set
+        
+        1.The Union() Method
+        2.The intersection() Method
+        3.The difference() Method
+        4.The symmetricDifference() Method
+        5.The isSubsetOf() Method
+        6.The isSupersetOf() Method
+        7.The isDisjointFrom() Method
+
+     => JavaScript  Set WeakSet
+
+        1. new WeakSet()
+         ->return a new WeakSet Object
+
+        2. add(Object)
+         ->Adds on Objects to a WeakSet
+
+        3.delete(object)
+         ->Removes a WeakSet object
+
+        4.has(object)
+         ->Return true is object exit in WeakSet
+         
+        5.size()
+         ->return number of size
+
+      =>JavaScript Map
+
+          1.Create a map
+          2.The Set()
+            -> method can also be used to change existing Map values:
+          3.The Get()
+          4.typeOf
+          5.instanceof
+     =>JavaScript Map Method
+         
+          1.map.size()
+          2.map.delete()
+          3.map.clear()
+          4.map.has()
+          5.Map.forEach()
+          6.Map.entries()
+          7.Map.keys()
+          8.Map.values()
+          9.Map.groupBy()
+
+     =>JavaScript WeakMap
+     
+          1.new WeakMap()
+          2.get(key)
+          3.set(key, value)
+          4.delete(key)
+          5.has(key)
+
+     =>JavaScript Loops
+
+       =>for Loop
+         ->for loop with normal example
+         ->for loop with array and length
+         ->for loop pattern Ster
+     
+      =>while loop
+       ->while loop with normal example
+       ->while loop with array and length
+       ->while loop to all number ghadiyo
+     
+     => for..in
+       ->for in loop with normal example
+       ->for in loop with array and length
+
+     =>for..of
+       ->for of loop with normal example
+       ->for of loop with array and length
+
+     =>JavaScript Iterables
+
+       ->Iterating Over a String
+       ->Iterating Over an Array
+       ->Iterating Over a Set
+       ->Iterating Over a Map
+     
+     =>JavaScript Iterators
+      
+      1.Iterators.from()
+      2.Iterators.filter()
+      3.Iterators.map()
+      4.Iterators.take()
+      5.Iterators.drop()
+      6.Iterators.find()
+      7.Iterators.reduce()
+      8.Iterators.every()
+      9.Iterators.some()
+
+     =>JavaScript Generators
+       
+       1.next()
+       2.return()
+       3.throw()
+
+_____________________________________________________________________________________________________________
+Day 15:-
+19/09/2025
+
+     =>JavaScript RegExp
+
+          1.js RegExp
+          2.js RegExp Flags
+          3.js RegExp Classes
+          4.js RegExp Metachars
+          5.js RegExp Assertions
+          6.js RegExp Quantifiers
+          7.js RegExp patterns
+          8.js RegExp Objects
+          9.js RegExp Methods
+
+     =>JavaScript Promises
+      
+          1.js CallBack
+          2.js Asynchronous
+          3.js Promises
+          4.js Async/Await
+
+
+___________________________________________________________________________________________________________
+
+Day 16 :-
+23/09/2025
+
+     => JavaScript Modules
+
+          1.Named Exports
+          2.Default Exports
+          3.Import
+
+     =>JavaScript HTML DOM
+
+          1.DOM Introduction
+          2.DOM Method
+          3.DOM Document
+          4.DOM Elements
+          5.DOM HTML
+          6.DOM Forms
+          7.DOM CSS
+          8.DOM Animations
+          9.DOM Events
+          10.DOM Event listener
+          11.DOM Navigation
+          12.DOM Nodes
+          13.DOM Collections
+          14.DOM Node Lists
+
+___________________________________________________________________________________________________________
+
+Day 17 :-
+24/09/2025
+
+     =>JavaScript  Window
+
+          1.window.innerHeight
+          2.window.innerWidth
+          3.window.open() 
+          4.window.close()
+          5.window.moveTo() 
+          6.window.resizeTo() 
+
+     =>JavaScript Window  Screen
+          
+          1.screen.width
+          2.screen.height
+          3.screen.availWidth
+          4.screen.availHeight
+          5.screen.colorDepth
+          6.screen.pixelDepth
+
+     =>JavaScript  Window Location
+
+          1.window.location
+          2.window.location.hostname 
+          3.window.location.pathname 
+          4.window.location.protocol 
+          5.window.location.assign()
+
+     =>JavaScript Window  History
+
+          1.history.back() 
+          2.history.forward()
+
+     =>JavaScript  Window Navigator
+
+          1.navigator.cookieEnabled
+          2.navigator.language
+          3.navigator.onLine
+          4.navigator.appName
+          5.navigator.appCodeName
+          6.navigator.product
+          7.navigator.appVersion
+          8.navigator.userAgent
+          9.navigator.platform
+          10.navigator.javaEnabled()
+
+     =>JavaScript Popup Boxes
+
+          1.window.alert()
+          2.window.confirm()
+          3.window.prompt()
+
+     =>JavaScript Timing
+
+          1.setTimeout()
+          2.clearTimeout()
+          3.setInterval()
+          4.clearInterval() 
+
+     =>JavaScript Cookies

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+  <section>
+<Artist>tony</Artist>	
+<Title>man</Title>
+</section>
+ <section>
+    <Artist>sara</Artist>
+    <Title>moonlight</Title>
+  </section>
+  <section>
+    <Artist>emma</Artist>
+    <Title>storm born</Title>
+  </section>
+  <section>
+    <Artist>kyle</Artist>
+    <Title>silent night</Title>
+  </section>
+  <section>
+    <Artist>ravi</Artist>
+    <Title>sunrise tales</Title>
+  </section>
+  <section>
+    <Artist>nina</Artist>
+    <Title>echoes</Title>
+  </section>
+  <section>
+    <Artist>arjun</Artist>
+    <Title>desert wind</Title>
+  </section>
+  <section>
+    <Artist>lisa</Artist>
+    <Title>hidden fire</Title>
+  </section>
+  <section>
+    <Artist>sam</Artist>
+    <Title>crimson path</Title>
+  </section>
+  <section>
+    <Artist>jake</Artist>
+    <Title>the journey</Title>
+  </section>
+  <section>
+    <Artist>maya</Artist>
+    <Title>dreamscape</Title>
+  </section>
+  <section>
+    <Artist>noah</Artist>
+    <Title>whispers</Title>
+  </section>
+  <section>
+    <Artist>olivia</Artist>
+    <Title>river song</Title>
+  </section>
+  <section>
+    <Artist>liam</Artist>
+    <Title>breaking dawn</Title>
+  </section>
+  <section>
+    <Artist>ava</Artist>
+    <Title>the fall</Title>
+  </section>
+  <section>
+    <Artist>ethan</Artist>
+    <Title>frozen time</Title>
+  </section>
+  <section>
+    <Artist>zoe</Artist>
+    <Title>ancient light</Title>
+  </section>
+</collection>
